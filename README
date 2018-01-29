@@ -7,7 +7,9 @@ voy a realizar una modificación.
 Entonces... primero tengo que hacer un ADD, después COMMIT y por último PUSH.
 
 >git add NOMBRE_ARCHIVO
+>git status (informa los cambios que se van a hacer)
 >git commit -m "Titulo de comit"
 >git push origin master (para subir todos los cambios y modificar el archivo maestro)
+
 
 
