@@ -1,3 +1,8 @@
 Esto es un READM del repositorio, acá voy a subir todos los comandos.
 
 voy a realizar una modificación.
+
+Entonces... primero tengo que hacer un ADD, después COMMIT.
+
+>git add NOMBRE_ARCHIVO
+>git commit -m "Titulo de comit"
