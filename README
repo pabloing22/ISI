@@ -2,7 +2,12 @@ Esto es un READM del repositorio, acá voy a subir todos los comandos.
 
 voy a realizar una modificación.
 
-Entonces... primero tengo que hacer un ADD, después COMMIT.
+---------------------------
+
+Entonces... primero tengo que hacer un ADD, después COMMIT y por último PUSH.
 
 >git add NOMBRE_ARCHIVO
 >git commit -m "Titulo de comit"
+>git push origin master (para subir todos los cambios y modificar el archivo maestro)
+
+
